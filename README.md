@@ -1,7 +1,7 @@
 # react-form
 Simple form operation in React using Redux.
 
-##Steps to Install 
+### Steps to Install 
 -Run following command from project folder
 ```sh
 $ npm install
