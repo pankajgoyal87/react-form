@@ -1,0 +1,26 @@
+export const users=[
+		{
+			id:1,
+			firstName:'John',
+			lastName:'Doe',
+			email:'john@doejohn.com',
+			phone:1234567890,
+			status:'ACTIVE'
+		},
+		{
+			id:2,
+			firstName:'Steve',
+			lastName:'Carlos',
+			email:'steve@stevecarlos.com',
+			phone:8885485685,
+			status:'INACTIVE'
+		},
+		{
+			id:3,
+			firstName:'Jacob',
+			lastName:'Thornton',
+			email:'jacob@throntonbros.com',
+			phone:6845958785,
+			status:'ACTIVE'
+		}
+	];
